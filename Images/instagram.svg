@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="instagram" transform="translate(-2 -2)">
+    <g id="Group_202" data-name="Group 202">
+      <path id="Path_113" data-name="Path 113" d="M8,2h8a6.007,6.007,0,0,1,6,6v8a6.007,6.007,0,0,1-6,6H8a6.007,6.007,0,0,1-6-6V8A6.007,6.007,0,0,1,8,2Zm8,18a4,4,0,0,0,4-4V8a4,4,0,0,0-4-4H8A4,4,0,0,0,4,8v8a4,4,0,0,0,4,4Z" fill="#fff"/>
+      <path id="Path_114" data-name="Path 114" d="M12,17a5,5,0,1,1,5-5A5.006,5.006,0,0,1,12,17Zm0-8a3,3,0,1,0,3,3A3,3,0,0,0,12,9Z" fill="#fff"/>
+    </g>
+    <circle id="Ellipse_29" data-name="Ellipse 29" cx="1.5" cy="1.5" r="1.5" transform="translate(15.5 5.5)" fill="rgba(0,0,0,0)"/>
+  </g>
+</svg>
